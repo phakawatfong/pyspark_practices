@@ -1,0 +1,1 @@
+Project to practice setup Apache Spark on local using Docker
